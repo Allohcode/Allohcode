@@ -6,7 +6,7 @@ My name is salem, a SOFTWARE ENGINEER
 <p align="center">
   <a href="https://twitter.com/melas_sa1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/melas_sa/" alt="Instagram" title="Dev Pro Tips Discord Server"><img width="32px" src="https://imgur.com/apuZLJv"/></a>
+  <a href="https://www.instagram.com/melas_sa/" alt="Instagram" title="Dev Pro Tips Discord Server"><img width="32px" src="https://imgur.com/a/qE18fD0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
