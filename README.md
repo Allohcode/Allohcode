@@ -4,7 +4,7 @@ My name is salem, a SOFTWARE ENGINEER
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/melas_sa1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/melas_sa1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.svgrepo.com/show/452123/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/melas_sa/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.svgrepo.com/show/28697/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
