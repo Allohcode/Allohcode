@@ -18,7 +18,7 @@ My name is salem, a SOFTWARE ENGINEER
 <h3 width="100%" heigth="5px" background="red"></h3>
 ### Languages and skill.
 
-<p>
+<p align="center">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
