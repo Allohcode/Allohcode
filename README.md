@@ -15,7 +15,7 @@ My name is salem, a SOFTWARE ENGINEER
 
 
 
-<h3 width="100%" heigth="5px" background="red"></h3>
+<h3 width="100%" height="5px" background="red"></h3>
 ### Languages and skill.
 
 <p align="center">
