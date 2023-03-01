@@ -3,7 +3,7 @@ My name is salem, a SOFTWARE ENGINEER
 
 
 <!-- Social icons section -->
-<p align="left">
+  <p align="left">
   <a href="https://twitter.com/melas_sa1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.svgrepo.com/show/452123/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/melas_sa/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.svgrepo.com/show/28697/instagram.svg"/></a>
@@ -12,14 +12,14 @@ My name is salem, a SOFTWARE ENGINEER
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 
-</p>
----
+  </p>
+
 
 <br/>
 
 
 
-<h3 width="100%" height="5px" background-color="red"></h3>
+<h3 width="100%" height="5px" background-color="red">man</h3>
 
 ### 🧰 Languages, Tools  and Skill
 
