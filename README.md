@@ -10,8 +10,9 @@ My name is salem, a SOFTWARE ENGINEER
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://web.facebook.com/profile.php?id=100007259927726"><img width="32px" alt="Facebook" src="https://www.svgrepo.com/show/448224/facebook.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+   <a href="https://github.com/Allohcode?tab=stars">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+ 
 </p>
 
 <br/>
