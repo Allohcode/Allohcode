@@ -19,7 +19,7 @@ My name is salem, a SOFTWARE ENGINEER
 
 
 
-<h3 width="100%" height="5px" background-color="red">man</h3>
+---
 
 ### 🧰 Languages, Tools  and Skill
 
