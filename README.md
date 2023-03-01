@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is salem, a SOFTWARE ENGINEER 
+My name is salem, I am  SOFTWARE ENGINEER 
 
 
 <!-- Social icons section -->
